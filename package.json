@@ -1,0 +1,36 @@
+{
+  "name": "@electron-helpers/window-positioner",
+  "version": "1.0.0",
+  "description": "Easily manage the position of electron windows.",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-rc.1",
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/preset-env": "^7.0.0-rc.1",
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "peerDependencies": {
+    "electron": "^2.0.0"
+  },
+  "scripts": {
+    "build": "babel src/windowPositioner.js -o index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamas-pap/electron-window-position.git"
+  },
+  "keywords": [
+    "electron",
+    "window",
+    "position"
+  ],
+  "author": "Tamas Pap <tamas@tamaspap.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamas-pap/electron-window-position/issues"
+  },
+  "homepage": "https://github.com/tamas-pap/electron-window-position#readme"
+}
