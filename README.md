@@ -1,6 +1,6 @@
 # Electron Window Positioner [![Build Status](https://travis-ci.org/tamas-pap/electron-window-positioner.svg?branch=master)](https://travis-ci.org/tamas-pap/electron-window-positioner)
 
-> Easily manage the position of your electron window.
+> Easily manage the position of electron window.
 
 ## Install
 
