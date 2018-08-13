@@ -5,7 +5,7 @@
 ## Install
 
 ```
-npm install --save electron-window-positioner
+npm install --save @electron-helpers/window-positioner
 ```
 
 ## Usage
